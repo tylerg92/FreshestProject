@@ -1,0 +1,95 @@
+body {
+    margin: 0;
+    background-image: url(images/green-vegetables-on-brown-wooden-chopping-board-3952047.jpg);
+    background-color: #000000;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 1990px 910px;
+    font-family: 'Poppins', sans-serif;
+}
+.nav {
+display: flex;
+justify-content: space-between;
+border-bottom: 2px solid;
+margin: 70px;
+color: #ffffff;
+}
+h3 {
+margin: 0;
+}
+ul {
+    padding: 0;
+    margin: 0;
+}
+a {
+    text-decoration: none;
+    padding-right: 20px;
+    color: #ffffff;
+}
+.title {
+display: flex;
+align-items: center;
+flex-direction: column;
+margin: 200px 300px 400px;
+color: #ffffff;
+
+}
+.title h2 {
+    margin: -30px 10px;
+    font-size: 45px;
+}
+h1 {
+    border-bottom: 2px solid;
+    padding-bottom: 25px;
+    font-size: 90px;
+    width: 450px;
+    text-align: center;
+}
+.sect1 {
+display: flex;
+color: #ffffff;
+}
+.sect2 {
+    display: flex;
+    flex-direction: row-reverse;
+    color: #ffffff;
+}
+.sect3{
+    display: flex;
+    color: #ffffff;
+    background-color: #252525;
+}
+img {
+    max-width: 550px;
+    height: auto;
+}
+.sect1 h2 {
+    margin: 60px 300px;
+    font-size: 50px;
+}
+.sect1 p {
+    margin: -35px 110px -25px 300px;
+    font-size: 25px;
+    padding-right: 200px;
+}
+.sect2 h2 {
+    margin: 110px 100px;
+    font-size: 50px;
+}
+.sect2 p {
+    margin: -75px 490px 85px -210px;
+    font-size: 25px;
+    padding-left: 300px;
+}
+.sect3 h2 {
+    margin: 100px 300px;
+    font-size: 50px;
+}
+.sect3 p {
+    margin: -65px 110px -25px 300px;
+    font-size: 25px;
+    padding-right: 200px;
+}
+p {
+    font-style: italic;
+}
